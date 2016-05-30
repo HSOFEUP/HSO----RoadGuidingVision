@@ -1,0 +1,3 @@
+lmcurve.lo: lmcurve.c lmmin.h
+
+lmmin.h:
